@@ -1,4 +1,4 @@
-// Simpe program for modified Bellman-Ford's single source shortest path algorithm.
+// Simple program for modified Bellman-Ford's single source shortest path algorithm.
  
 using System;
  
